@@ -1,0 +1,8 @@
+![大工体験](https://github.com/user-attachments/assets/4811e6c0-b32c-4a61-a0db-7abde0ad3ad7)
+![足場](https://github.com/user-attachments/assets/d2266627-d1e0-4da1-9db0-56b69f671c6e)
+![左官体験](https://github.com/user-attachments/assets/bc3b3571-84d3-4b11-b763-e6f2de5d733b)
+![交通誘導](https://github.com/user-attachments/assets/26e94eba-bd6c-4b2f-84ac-4a46fe714a02)
+![救命活動＆モールス信号・装甲車展示](https://github.com/user-attachments/assets/5efeaf6a-ae34-43a9-98a1-620c9b5ae464)
+![引越作業](https://github.com/user-attachments/assets/cc824fd4-aade-4c33-85a5-09c297111294)
+![bonus_img_2](https://github.com/user-attachments/assets/211d6489-6269-4f74-8920-59e71694ec00)
+![bonus_img_0](https://github.com/user-attachments/assets/27296d61-8efa-4f85-8ff7-37f3b059426a)
