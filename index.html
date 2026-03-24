@@ -194,19 +194,15 @@ ul { list-style: none; }
 .hero {
   margin-top: 64px;
   position: relative;
-  background: linear-gradient(135deg, #e8f5ee 0%, #f0f9ff 50%, #fff5f0 100%);
+  background: url('プレミストドーム写真.jpg') center center / cover no-repeat;
   overflow: hidden;
   padding: 80px 0 60px;
 }
-.hero::before {
+.hero::after {
   content: '';
   position: absolute;
-  top: -50%;
-  right: -20%;
-  width: 600px;
-  height: 600px;
-  background: radial-gradient(circle, rgba(46,164,106,0.08) 0%, transparent 70%);
-  border-radius: 50%;
+  top: 0; left: 0; width: 100%; height: 100%;
+  background: rgba(255,255,255,0.60);
 }
 .hero-inner {
   max-width: 1000px;
@@ -287,8 +283,13 @@ ul { list-style: none; }
 .hero-btns { display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; }
 .hero-note {
   margin-top: 20px;
-  font-size: 0.8rem;
-  color: #888;
+  font-size: 0.9rem;
+  color: #333;
+  font-weight: 700;
+  background: rgba(255,255,255,0.8);
+  display: inline-block;
+  padding: 8px 20px;
+  border-radius: 8px;
 }
 
 /* ============================================
@@ -886,6 +887,18 @@ a.school-item:hover .school-link-arrow {
 .compare-table tbody tr:last-child td { border-bottom: none; }
 .compare-icon-before { color: #ccc; margin-right: 6px; }
 .compare-icon-after { color: #2ea46a; margin-right: 6px; }
+.mid-cta {
+  padding: 48px 0;
+  background: linear-gradient(135deg, #f8fdf9 0%, #f0f9ff 100%);
+  border-top: 1px solid #eee;
+  border-bottom: 1px solid #eee;
+}
+.mid-cta-text {
+  font-size: 1rem;
+  font-weight: 700;
+  color: #555;
+  margin-bottom: 20px;
+}
 .beforeafter { background: #f8faf9; }
 .ba-table thead th:nth-child(2) {
   background: #f5f5f5;
@@ -1277,6 +1290,17 @@ a.school-item:hover .school-link-arrow {
   </div>
 </section>
 
+<!-- ========== MID CTA ========== -->
+<section class="mid-cta">
+  <div class="container" style="text-align:center;">
+    <p class="mid-cta-text">ここまで読んで気になったら</p>
+    <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
+      <a href="#apply" class="btn btn-primary">参加を申し込む</a>
+      <a href="#diagnosis" class="btn btn-diag-hero">参加すべき？診断する</a>
+    </div>
+  </div>
+</section>
+
 <!-- ========== CONTENTS ========== -->
 <section class="section contents" id="contents">
   <div class="container">
@@ -1366,6 +1390,17 @@ a.school-item:hover .school-link-arrow {
     </div>
     <div class="schools-list" id="schoolsList">
       <!-- JS で自動生成 -->
+    </div>
+  </div>
+</section>
+
+<!-- ========== MID CTA 2 ========== -->
+<section class="mid-cta">
+  <div class="container" style="text-align:center;">
+    <p class="mid-cta-text">これだけの学校が参加を決めています</p>
+    <div style="display:flex;justify-content:center;gap:16px;flex-wrap:wrap;">
+      <a href="#apply" class="btn btn-primary">参加を申し込む</a>
+      <a href="#diagnosis" class="btn btn-diag-hero">参加すべき？診断する</a>
     </div>
   </div>
 </section>
