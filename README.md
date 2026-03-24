@@ -6,3 +6,4 @@
 ![引越作業](https://github.com/user-attachments/assets/cc824fd4-aade-4c33-85a5-09c297111294)
 ![bonus_img_2](https://github.com/user-attachments/assets/211d6489-6269-4f74-8920-59e71694ec00)
 ![bonus_img_0](https://github.com/user-attachments/assets/27296d61-8efa-4f85-8ff7-37f3b059426a)
+![プレミストドーム写真](https://github.com/user-attachments/assets/5fb2e813-844b-4a17-a368-7ab7286fa96b)
